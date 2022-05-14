@@ -1,2 +1,2 @@
 # test
-test project providing simple greetings on /greetings endpoint
+test project providing simple greetings at /greetings endpoint
